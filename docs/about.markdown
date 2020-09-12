@@ -1,18 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+permalink: /
+layout: single
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently a Data Scientist at [Bayer CropSciences](https://www.cropscience.bayer.com/){:target="_blank"},
+where I help with data and analytic on the frontier of IoT in glass-house technology.  I also design data products that fits the automated decision-making pipeline.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In 2018 I joined a group of transdisciplinary scientists at [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"},
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+which led into collaboration with a bigger network of artists and scientists at [SEADS](https://seads.network/){:target="_blank"},
